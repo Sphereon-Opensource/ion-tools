@@ -31,7 +31,7 @@
     "@transmute/did-key-x25519": "^0.2.1-unstable.42",
     "@transmute/did-key.js": "^0.2.1-unstable.42",
     "cross-fetch": "^3.1.4",
-    "@sphereon/ion-pow-sdk": "file://C:\\Git\\Sphereon-Opensource\\ion-pow-sdk\\sphereon-ion-pow-sdk-1.0.15.tgz",
+    "@sphereon/ion-pow-sdk": "^1.0.15",
     "randombytes": "^2.1.0"
   },
   "bugs": {
