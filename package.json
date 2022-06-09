@@ -1,5 +1,5 @@
 {
-  "name": "@decentralized-identity/ion-tools",
+  "name": "@sphereon/ion-tools",
   "version": "0.1.0",
   "description": "ION Tools - utilities to make working with the ION network and using ION DIDs easy peasy lemon squeezy",
   "repository": {
@@ -31,7 +31,7 @@
     "@transmute/did-key-x25519": "^0.2.1-unstable.42",
     "@transmute/did-key.js": "^0.2.1-unstable.42",
     "cross-fetch": "^3.1.4",
-    "ion-pow-sdk": "^1.0.15",
+    "@sphereon/ion-pow-sdk": "^1.0.15",
     "randombytes": "^2.1.0"
   },
   "bugs": {

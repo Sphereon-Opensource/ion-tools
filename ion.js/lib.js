@@ -3,7 +3,7 @@ const randomBytes = require('randombytes');
 const ed25519 = require('@transmute/did-key-ed25519');
 const secp256k1 = require('@transmute/did-key-secp256k1');
 const RawIonSdk = require('@decentralized-identity/ion-sdk');
-const ProofOfWorkSDK = require('ion-pow-sdk');
+const ProofOfWorkSDK = require('@sphereon/ion-pow-sdk');
 
 async function _generateKeyPair(factory){
   const keyPair = await factory.generate({
